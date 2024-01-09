@@ -9,4 +9,4 @@ $ ./main
 
 ## Output
 File: output.mp4
-[![output.mp4](https://youtu.be/GVV_nKxuNgM)](https://youtu.be/GVV_nKxuNgM)
+![output.mp4](https://youtu.be/GVV_nKxuNgM)
